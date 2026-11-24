@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Database](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 ## The idea
 
@@ -143,6 +144,10 @@ StudyBuddy/
 ```bash
 python -m unittest discover -s tests
 ```
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ## Hackathon demo path
 
