@@ -1,0 +1,7 @@
+USERS = "users"
+STUDENT_PROFILES = "student_profiles"
+TUTOR_CONVERSATIONS = "tutor_conversations"
+ASSESSMENTS = "assessments"
+LEARNING_PLANS = "learning_plans"
+QUIZ_ATTEMPTS = "quiz_attempts"
+TOPIC_PROGRESS = "topic_progress"
